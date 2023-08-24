@@ -1,5 +1,5 @@
 # Bootcamp FullStack C# (.NET) -  Grupo Castilla
-![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,angular,vscode,docker,mysql,postman,cs,dotnet,visualstudio,git,github,powershell&theme=light)
+![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,angular,vscode,aws,docker,mysql,postman,cs,dotnet,visualstudio,git,github,powershell&theme=light)
 
 <!-- Objetivos del Bootcamp: [Ver más](#objetivos) -->
 
@@ -30,7 +30,7 @@
 - Implementar pruebas unitarias y de integración.
 <br>
 
-## C2 - Frontend ![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,angular,vscode&theme=light)
+## C2 - Frontend ![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,angular,vscode,aws&theme=light)
 | Tarea | Equipo | Ejercicios  | Código | Despliegue |
 | :--- | --- | ---: | --- | :---: |
 | T3 - HTML y CSS | | 10 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T03-HTML-CSS-06-2023) | [Ver](https://santiarroyave.github.io/sao-fe-gc-ejercicios-T03-HTML-CSS-06-2023/) |  
