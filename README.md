@@ -1,4 +1,5 @@
 # Bootcamp FullStack C# (.NET) -  Grupo Castilla
+![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,mysql,docker,cs&theme=light)
 
 <!-- Objetivos del Bootcamp: [Ver más](#objetivos) -->
 
@@ -10,11 +11,11 @@
 
 
 ## Objetivos
-### Objetivos generales de la formación Fullstack Developer para los itinerarios de Java y C# (.NET):
-- Especializarse en el uso de lenguajes de programación, frameworks y herramientas necesarias para el desarrollo de aplicaciones web completas tales como Java y C#.
+### Objetivos generales de la formación Fullstack Developer:
+- Especializarse en el uso de lenguajes de programación, frameworks y herramientas necesarias para el desarrollo de aplicaciones web completas tales como C#.
 - Desarrollar habilidades para diseñar, desarrollar y desplegar soluciones de sofware escalables y eficientes para distintos casos de uso.
 - Adquirir conocimeintos en bases de datos relacionales y no relacionales, así como habilidades para integrar aplicaciones con servicios externos.
-- Desarrollar habilidades de resolución de problemas, traajo en equipo y comunicación para enfrentar desafíos en un entorno profesional.
+- Desarrollar habilidades de resolución de problemas, trabajo en equipo y comunicación para enfrentar desafíos en un entorno profesional.
 
 ### Objetivos específicos para el itinerario de .NET Core:
 - Desarrollar aplicaciones web con .NET Core y el patrón de arquitectura MVC.
