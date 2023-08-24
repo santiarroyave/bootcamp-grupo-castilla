@@ -1,4 +1,4 @@
-# Bootcamp Grupo Castilla
+# Bootcamp FullStack C# (.NET) -  Grupo Castilla
 
 <!-- Objetivos del Bootcamp: [Ver más](#objetivos) -->
 
