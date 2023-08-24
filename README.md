@@ -1,5 +1,5 @@
 # Bootcamp FullStack C# (.NET) -  Grupo Castilla
-![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,mysql,docker,cs,dotnet&theme=light)
+![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,angular,vscode,docker,mysql,postman,cs,dotnet,visualstudio,git,github,powershell&theme=light)
 
 <!-- Objetivos del Bootcamp: [Ver más](#objetivos) -->
 
@@ -30,7 +30,7 @@
 - Implementar pruebas unitarias y de integración.
 <br>
 
-## C2 - Frontend ![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular&theme=light)
+## C2 - Frontend ![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,angular,vscode&theme=light)
 | Tarea | Equipo | Ejercicios  | Código | Despliegue |
 | :--- | --- | ---: | --- | :---: |
 | T3 - HTML y CSS | | 10 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T03-HTML-CSS-06-2023) | [Ver](https://santiarroyave.github.io/sao-fe-gc-ejercicios-T03-HTML-CSS-06-2023/) |  
@@ -39,7 +39,7 @@
 <br>
 
 
-## C3 - Bases de Datos SQL (MySQL) ![mysql](https://skillicons.dev/icons?i=mysql,docker&theme=light)
+## C3 - Bases de Datos SQL (MySQL) ![mysql](https://skillicons.dev/icons?i=docker,mysql,postman&theme=light)
   
 | Tarea | Equipo | Ejercicios | Código |
 | :--- | --- | ---: | --- |
@@ -51,7 +51,7 @@
 | T17 - DML (II)             |         | 4 ejercicios           | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c3-BBDD-07-2023) |
 <br>
 
-## C4 - Desarrollo orientado a objetos con .NET (C#) ![csharp](https://skillicons.dev/icons?i=cs)
+## C4 - Desarrollo orientado a objetos con .NET (C#) ![csharp](https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=light)
   
 | Tarea | Código | Ejercicios |
 | :--- | --- | ---: |
@@ -65,8 +65,10 @@
 | T28 - POO .NET             | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023)     | 9 ejercicios |
 <br>
 
-## C5 - Desarrollo Backend con .NET
+## C5 - Desarrollo Backend con .NET ![csharp](https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=light)
 | Tarea | Ejercicios | Código |
 | :--- | ---: | --- |
-| T28 - NuGet | | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T28-nuget-08-2023/) |
+| T28 - NuGet       | 1 ejercicio   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T28-nuget-08-2023/) |
+| T29 - UnitTest    | 1 ejercicio   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T29-UnitTest-08-2023) |
+| T30 - Patrón MVC  | 3 ejercicios  | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T30-Patron-MVC-08-2023) |
 <br>
