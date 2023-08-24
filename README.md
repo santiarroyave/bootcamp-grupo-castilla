@@ -1,5 +1,5 @@
 # Bootcamp FullStack C# (.NET) -  Grupo Castilla
-![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,mysql,docker,cs&theme=light)
+![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,mysql,docker,cs,dotnet&theme=light)
 
 <!-- Objetivos del Bootcamp: [Ver más](#objetivos) -->
 
