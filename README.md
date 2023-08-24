@@ -1,9 +1,32 @@
 # Bootcamp Grupo Castilla
-## Duración
 
-| Inicia | Acaba |
-| --- | --- |
-| 06-2023 | 09-2023 |
+<!-- Objetivos del Bootcamp: [Ver más](#objetivos) -->
+
+> _Este bootcamp ha sido posible gracias a **Grupo Castilla** y la **Cambra de Comerç de Reus** como patrocinadores y a **Fundación Esplai Ciudadania Comprometida** y **Techma Business School** como equipo docente._
+
+> *Inicio: 06-06-2023 | Fin: 09-2023*
+
+> *Duración: 300h*
+
+
+## Objetivos
+### Objetivos generales de la formación Fullstack Developer para los itinerarios de Java y C# (.NET):
+- Especializarse en el uso de lenguajes de programación, frameworks y herramientas necesarias para el desarrollo de aplicaciones web completas tales como Java y C#.
+- Desarrollar habilidades para diseñar, desarrollar y desplegar soluciones de sofware escalables y eficientes para distintos casos de uso.
+- Adquirir conocimeintos en bases de datos relacionales y no relacionales, así como habilidades para integrar aplicaciones con servicios externos.
+- Desarrollar habilidades de resolución de problemas, traajo en equipo y comunicación para enfrentar desafíos en un entorno profesional.
+
+### Objetivos específicos para el itinerario de .NET Core:
+- Desarrollar aplicaciones web con .NET Core y el patrón de arquitectura MVC.
+- Adquirir conocimientos en el desarrollo de servicios RESTful y SOAP.
+- Trabajar con bases de datos relacionales y no relacionales usando Entity Framework Core.
+- Implementar pruebas unitarias y de integración.
+
+### Objetivos específicos para Angular:
+- Adquirir conocimientos en Angular y TypeScript para el desarrollo de aplicaciones web del lado del cliente.
+- Desarrollar interfaces de usuario atractivas y altamente funcionales.
+- Trabajar con APIs RESTful y SOAP para el consumo de datos.
+- Implementar pruebas unitarias y de integración.
 <br>
 
 ## C2 - Frontend ![mysql](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular&theme=light)
@@ -11,7 +34,9 @@
 | :--- | --- | ---: | --- | :---: |
 | T3 - HTML y CSS | | 10 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T03-HTML-CSS-06-2023) | [Ver](https://santiarroyave.github.io/sao-fe-gc-ejercicios-T03-HTML-CSS-06-2023/) |  
 | T4 - Tablas DIV | |10 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023) | [Ver](https://santiarroyave.github.io/sao-fe-gc-ejercicios-T04-Tablas-DIV-06-2023/) |
+| | | | | |
 <br>
+
 
 ## C3 - Bases de Datos SQL (MySQL) ![mysql](https://skillicons.dev/icons?i=mysql,docker&theme=light)
   
