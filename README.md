@@ -86,9 +86,9 @@
 | :--- | ---: | --- |
 | T28 - NuGet       | 1 ejercicio   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T28-nuget-08-2023/) |
 | T29 - UnitTest    | 1 ejercicio   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T29-UnitTest-08-2023) |
-| T30 - Patrón MVC  | 3 ejercicios  | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T30-Patron-MVC-08-2023) |
 | T31 - API .NET Core | 3 ejercicios |[Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T31-API-NET-Core-08-2023) |
 | T33 - API .NET Core (Models) | 4 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T33-API-NET-Core-Models-08-2023) |
 | T34 - API .NET Core (Controllers) | 4 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T34-API-NET-Core-Controllers-08-2023) |
 | T35 - API ER SQL | 4 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T35-API-ER-SQL-09-2023) |
+<!--| T30 - Patrón MVC  | 3 ejercicios  | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T30-Patron-MVC-08-2023) |-->
 <br>
