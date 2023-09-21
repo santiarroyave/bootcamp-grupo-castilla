@@ -71,24 +71,24 @@
   
 | Tarea | Código | Ejercicios |
 | :--- | --- | ---: |
-| T18 - Introducción a .NET  | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023)       | 2 ejercicios |
-| T19 - C# Basics            | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023)      | 5 ejercicios |
-| T20 - Flujo de datos       | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T20-flujo-de-datos-08-2023)      | 23 ejercicios |
-| T21 - Métodos y Arrays     | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023)    | 21 ejercicios |
-| T24 - Basic C#             | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023)       | `M1, M2, M3 y M4` |
-| T25 - POO                  | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023)         | 10 ejercicios |
-| T27 - Herencia             | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T27-c-sharp-herencia-08-2023)    | `M5 y M6` |
-| T28 - POO .NET             | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023)     | 9 ejercicios |
+| T18 - Introducción a .NET   | 2 ejercicios      | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023)
+| T19 - C# Basics             | 5 ejercicios      | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T19-c-sharp-basics-08-2023)
+| T20 - Flujo de datos        | 23 ejercicios     | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T20-flujo-de-datos-08-2023) 
+| T21 - Métodos y Arrays      | 21 ejercicios     | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023)
+| T24 - Basic C#              | `M1, M2, M3 y M4` | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T24-basic-c-sharp-08-2023)
+| T25 - POO                   | 10 ejercicios     | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023)
+| T27 - Herencia              | `M5 y M6`         | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T27-c-sharp-herencia-08-2023)
+| T28 - POO .NET              | 9 ejercicios      | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T28-c-sharp-POO-NET-08-2023) 
 <br>
 
 ## C5 - Desarrollo Backend con .NET ![csharp](https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=light)
 | Tarea | Ejercicios | Código |
 | :--- | ---: | --- |
-| T28 - NuGet       | 1 ejercicio   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T28-nuget-08-2023/) |
-| T29 - UnitTest    | 1 ejercicio   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T29-UnitTest-08-2023) |
-| T31 - API .NET Core | 3 ejercicios |[Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T31-API-NET-Core-08-2023) |
-| T33 - API .NET Core (Models) | 4 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T33-API-NET-Core-Models-08-2023) |
-| T34 - API .NET Core (Controllers) | 4 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T34-API-NET-Core-Controllers-08-2023) |
-| T35 - API ER SQL | 4 ejercicios | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T35-API-ER-SQL-09-2023) |
+| T28 - NuGet                         | 1 ejercicio    | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T28-nuget-08-2023/) |
+| T29 - UnitTest                      | 1 ejercicio    | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T29-UnitTest-08-2023) |
+| T31 - API .NET Core                 | 3 ejercicios   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T31-API-NET-Core-08-2023) |
+| T33 - API .NET Core (Models)        | 4 ejercicios   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T33-API-NET-Core-Models-08-2023) |
+| T34 - API .NET Core (Controllers)   | 4 ejercicios   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T34-API-NET-Core-Controllers-08-2023) |
+| T35 - API ER SQL                    | 4 ejercicios   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T35-API-ER-SQL-09-2023) |
 <!--| T30 - Patrón MVC  | 3 ejercicios  | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T30-Patron-MVC-08-2023) |-->
 <br>
