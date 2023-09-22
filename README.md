@@ -92,3 +92,10 @@
 | T35 - API ER SQL                    | 4 ejercicios   | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T35-API-ER-SQL-09-2023) |
 <!--| T30 - Patrón MVC  | 3 ejercicios  | [Repositorio](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T30-Patron-MVC-08-2023) |-->
 <br>
+
+## C6 - Proyecto Final
+| Tipo | Código |
+| --- | --- |
+| Frontend | [Repositorio](https://github.com/santiarroyave/team1-fe-gc-proyecto-final-frontend) |
+| Backend  | [Repositorio](https://github.com/jhondelaguila/team1-fe-gc-proyecto-final-backend) |
+<br>
