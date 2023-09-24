@@ -94,8 +94,8 @@
 <br>
 
 ## C6 - Proyecto Final
-| Tipo | Código |
-| --- | --- |
-| Frontend | [Repositorio](https://github.com/santiarroyave/team1-fe-gc-proyecto-final-frontend) |
-| Backend  | [Repositorio](https://github.com/jhondelaguila/team1-fe-gc-proyecto-final-backend) |
+| Tipo | Equipo | Código |
+| --- | --- | --- |
+| Frontend | `team1` | [Repositorio](https://github.com/santiarroyave/team1-fe-gc-proyecto-final-frontend) |
+| Backend  | `team1` |[Repositorio](https://github.com/jhondelaguila/team1-fe-gc-proyecto-final-backend) |
 <br>
